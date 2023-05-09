@@ -68,6 +68,7 @@
                     if (response.ok) {
                         quote_text.textContent = data.content;
                         cite.textContent = data.author;
+                        cite.title = data.author;
                     } else {
                         quote_text.textContent = "Try again, God is on your side.";
                         console.log(data);
@@ -85,6 +86,7 @@
                     random_quote = data[Math.floor(Math.random() * data.length - 1) + 1];
                     quote_text.innerHTML = random_quote.content;
                     cite.innerHTML = random_quote.verseref;
+                    cite.title = random_quote.verseref;
                 } else {
                     quote_text.textContent = "Try again, God is on your side.";
                     console.log(data);

@@ -35,7 +35,7 @@ Here is an example for [my gist](https://gist.github.com/onegladiator4u/ac7405d0
 You have to add the url of your JSON file with parameter `f` into query parameters.
 If you're using a gist, make sure you use the raw version. If you update raw file, the file url will change. So update the file url.
 
-Use this code in Notion to embed
+**Use this code in Notion to embed**
 ```
 https://onegladiator4u.github.io/BibleVerseWidget/?f=https://raw.githubusercontent.com/onegladiator4u/BibleVerseWidget/main/Bible-verses.json
 ```
