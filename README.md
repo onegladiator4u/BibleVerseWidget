@@ -37,5 +37,5 @@ If you're using a gist, make sure you use the raw version. If you update raw fil
 
 Use this code in Notion to embed
 ```
-https://onegladiator4u.github.io/Notion-Bibleverse/?f=https://raw.githubusercontent.com/onegladiator4u/Notion-Bibleverse/main/Bible-verses.json
+https://onegladiator4u.github.io/BibleVerseWidget/?f=https://raw.githubusercontent.com/onegladiator4u/BibleVerseWidget/main/Bible-verses.json
 ```
